@@ -1,2 +1,3 @@
 # DSC180-Methodology-3
-MA3
+Vishal Rana Paidi
+
